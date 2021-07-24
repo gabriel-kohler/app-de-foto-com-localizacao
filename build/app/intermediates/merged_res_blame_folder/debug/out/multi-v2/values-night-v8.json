@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\kohle\\Desktop\\flutter\\prac apps\\usando recursos nativos - prac\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\kohle\\Documents\\GitHub\\utlizando-recursos-nativos\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kohle\\Desktop\\flutter\\prac apps\\usando recursos nativos - prac\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\kohle\\Documents\\GitHub\\utlizando-recursos-nativos\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
