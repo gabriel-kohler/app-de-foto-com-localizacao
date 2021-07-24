@@ -19,7 +19,10 @@ class MapScreen extends StatefulWidget {
 }
 
 class _MapScreenState extends State<MapScreen> {
-  LatLng _pickedPosition;
+  LatLng _pickedPosition = LatLng(
+    37.422,
+    -122.084,
+  );
 
   void _selectPosition(LatLng position) {
     setState(() {
@@ -32,6 +35,16 @@ class _MapScreenState extends State<MapScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Selecione'),
+        actions: <Widget>[
+          IconButton(
+            onPressed: _pickedPosition == null
+                ? null
+                : () {
+                    Navigator.of(context).pop(_pickedPosition);
+                  },
+            icon: Icon(Icons.check),
+          ),
+        ],
       ),
       body: GoogleMap(
         initialCameraPosition: CameraPosition(
