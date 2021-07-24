@@ -92,6 +92,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "google_maps_flutter",
+      "rootUri": "file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_maps_flutter_platform_interface",
+      "rootUri": "file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "http",
       "rootUri": "file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3",
       "packageUri": "lib/",
@@ -266,6 +278,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "stream_transform",
+      "rootUri": "file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "string_scanner",
       "rootUri": "file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
       "packageUri": "lib/",
@@ -320,7 +338,7 @@
       "languageVersion": "2.8"
     }
   ],
-  "generated": "2021-07-24T19:29:04.590470Z",
+  "generated": "2021-07-24T22:01:39.308320Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

@@ -50,6 +50,14 @@ flutter_plugin_android_lifecycle
 2.12
 file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.2/
 file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.2/lib/
+google_maps_flutter
+2.12
+file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.6/
+file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.6/lib/
+google_maps_flutter_platform_interface
+2.12
+file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.0/
+file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.0/lib/
 http
 2.12
 file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3/
@@ -162,6 +170,10 @@ stream_channel
 2.12
 file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/
 file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib/
+stream_transform
+2.12
+file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/
+file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib/
 string_scanner
 2.12
 file:///C:/Users/kohle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/

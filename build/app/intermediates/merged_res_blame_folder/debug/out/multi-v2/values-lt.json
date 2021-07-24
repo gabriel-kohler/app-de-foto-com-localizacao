@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kohle\\.gradle\\caches\\transforms-2\\files-2.1\\824aa73bfab377b83ab30f381e85b323\\jetified-play-services-basement-16.0.1\\res\\values-lt\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "217",
-                        "endOffsets": "464"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1269",
-                        "endColumns": "217",
-                        "endOffsets": "1482"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\kohle\\.gradle\\caches\\transforms-2\\files-2.1\\c428a3126f4614fbccb33b5e3d40b678\\jetified-play-services-base-16.0.1\\res\\values-lt\\values.xml",
+                    "source": "C:\\Users\\kohle\\.gradle\\caches\\transforms-2\\files-2.1\\7c879cb157fab2c9a5d74c3d70fd64e3\\jetified-play-services-base-17.0.0\\res\\values-lt\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,214,398,532,641,853,985,1134,1487,1712,1823,2019,2155,2367,2547,2645,2741",
                         "endColumns": "108,183,133,108,211,131,148,134,224,110,195,135,211,179,97,95,118",
                         "endOffsets": "209,393,527,636,848,980,1129,1264,1707,1818,2014,2150,2362,2542,2640,2736,2855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kohle\\.gradle\\caches\\transforms-2\\files-2.1\\3c8e7eb3d21ac94d08f658f6d8a1c9f3\\jetified-play-services-basement-17.0.0\\res\\values-lt\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "217",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1269",
+                        "endColumns": "217",
+                        "endOffsets": "1482"
                     }
                 }
             ]
