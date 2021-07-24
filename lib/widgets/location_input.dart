@@ -5,6 +5,10 @@ import 'package:usando_recursos_nativos_prac/utils/location_util.dart';
 import 'package:usando_recursos_nativos_prac/views/map_screen.dart';
 
 class LocationInput extends StatefulWidget {
+  final Function onSelectPosition;
+
+  LocationInput(this.onSelectPosition);
+
   @override
   _LocationInputState createState() => _LocationInputState();
 }
@@ -32,10 +36,9 @@ class _LocationInputState extends State<LocationInput> {
       ),
     );
 
-  if (selectedPosition == null) return;
-  
-  print(selectedPosition.latitude);
+    if (selectedPosition == null) return;
 
+    widget.onSelectPosition(selectedPosition);
   }
 
   @override
