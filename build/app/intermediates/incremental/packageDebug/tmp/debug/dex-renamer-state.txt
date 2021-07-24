@@ -1,4 +1,4 @@
-#Sat Jul 24 19:40:15 BRT 2021
+#Sat Jul 24 20:12:10 BRT 2021
 base.0=C\:\\Users\\kohle\\Documents\\GitHub\\utlizando-recursos-nativos\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

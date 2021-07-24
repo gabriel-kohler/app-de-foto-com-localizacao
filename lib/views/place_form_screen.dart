@@ -18,11 +18,15 @@ class _PlaceFormScreenState extends State<PlaceFormScreen> {
   LatLng _pickedPosition;
 
   void _selectImage(File pickedImage) {
-    _pickedImage = pickedImage;
+    setState(() {
+      _pickedImage = pickedImage;
+    });
   }
 
   void _selectPosition(LatLng pickedPosition) {
-    _pickedPosition = pickedPosition;
+    setState(() {
+      _pickedPosition = pickedPosition;
+    });
   }
 
   bool isValidForm() {
