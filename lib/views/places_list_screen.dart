@@ -39,7 +39,10 @@ class PlacesListScreen extends StatelessWidget {
                                 leading: CircleAvatar(
                                   backgroundImage: FileImage(place.image),
                                 ),
-                                onTap: () {},
+                                onTap: () => Navigator.of(context).pushNamed(
+                                  AppRoutes.PLACE_DETAIL,
+                                  arguments: place,
+                                ),
                               );
                             }),
                 child: Center(
