@@ -6,6 +6,16 @@ import 'package:usando_recursos_nativos_prac/views/place_detail_screen.dart';
 import 'package:usando_recursos_nativos_prac/views/place_form_screen.dart';
 import 'package:usando_recursos_nativos_prac/views/places_list_screen.dart';
 
+
+/*
+
+
+SDK VERSION :  sdk: ">=2.8.0 <3.0.0"
+
+
+*/
+
+
 void main() {
   runApp(MyApp());
 }
