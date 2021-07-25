@@ -28,10 +28,27 @@ class _MapScreenState extends State<MapScreen> {
   }
 
   @override
+  void initState() {
+    super.initState();
+    if (_pickedPosition == null && widget.isReadonly) {
+      setState(() {
+        _pickedPosition = LatLng(
+            widget.initialLocation.latitude, widget.initialLocation.longitude);
+      });
+    } else {
+      setState(() {
+        _pickedPosition = LatLng(37.419857, -122.078827);
+      });
+    }
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Selecione...'),
+        title: (widget.isReadonly)
+            ? Text('Selecione...')
+            : Text('Veja no mapa...'),
         actions: <Widget>[
           if (!widget.isReadonly)
             IconButton(
