@@ -41,11 +41,6 @@ class GreatPlacesProvider with ChangeNotifier {
     notifyListeners();
   }
 
-  void removePlace(String id) async {
-    _items.removeWhere((item) => item.id == id);
-    DatabaseUtil.remove(id);
-    notifyListeners();
-  }
 
   void addPlace(String title, File image, LatLng position) async {
     String address = await LocationUtil.getAddressFrom(position);
