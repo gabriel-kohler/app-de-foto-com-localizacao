@@ -1,2 +1,2 @@
-# utlizando-recursos-nativos
- App de localização com Sqlite
+# App de localização com Sqlite
+ Utilizando recursos nativos.
