@@ -1,4 +1,4 @@
-# App de localização com Sqlite
+# App de foto com localização usando Provider e Sqlite
  Utilizando recursos nativos.
  
  # Home Page
